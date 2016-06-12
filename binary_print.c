@@ -80,7 +80,7 @@ int main (int argc, char*argv[])
       //fwrite(buffer, sizeof(buffer),1, write_ptr);
       printf("\n");
       i+=10;
-      system("pause");
+      //system("pause");
     }
 
 
